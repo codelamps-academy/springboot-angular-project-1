@@ -20,7 +20,7 @@ public class AntiHeroDTO {
 
     private UUID id;
 
-    @NotNull(message = "First Name is required")
+//    @NotNull(message = "First Name is required")
     private String firstName;
 
     private String lastName;
