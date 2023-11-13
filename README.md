@@ -22,11 +22,15 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/gitpoint.svg?style=social&label=Follow)
 
 
+**About the Project.**
 
 
 Repository ini adalah project sederhana Springboot dan Angular
 
-**About the Project.**
+SPRING
+- Springboot Documentation : 
+- Angular Documentation : https://angular.io/cli
+
 
 ## Features
 
@@ -64,4 +68,9 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 
 ## Acknowledgments
 
-Thanks to [JetBrains](https://www.jetbrains.com) for supporting us with a [free Open Source License](https://www.jetbrains.com/buy/opensource).
+### SPRING :
+- Spring Documentation :
+
+### ANGULAR :
+- Angular Documentation CLI : https://angular.io/cli
+- Angular Features : https://angular.io/start
