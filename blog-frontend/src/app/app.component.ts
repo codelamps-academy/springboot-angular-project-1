@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import {AntiHero} from "./anti-hero/models/anti-hero.interface";
 
 @Component({
   selector: 'app-root',
@@ -7,4 +8,13 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'blog-frontend';
+  data : AntiHero[] = [
+    {
+      firstName :"Andre",
+      lastName: "Brillianto",
+      house : "Indonesia",
+      knownAd: "Venom"
+    }
+  ]
+
 }

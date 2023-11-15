@@ -1,0 +1,18 @@
+<form [formGroup]="heroForm" class="ui form">
+  <p>
+    <label for="email">Email</label>
+    <input type="text" id="email" name="email" formControlName="email">
+  </p>
+
+  <p>
+    <label for="firstname">FirstName</label>
+    <input type="text" id="firstname" name="firstname" formControlName="firstName">
+  </p>
+
+  <p>
+    <label for="lastname">Lastname</label>
+    <input type="text" id="lastname" name="lastname" formControlName="lastName">
+  </p>
+
+  <button class="ui button black" type="submit">Submit</button>
+</form>
